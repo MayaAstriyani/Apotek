@@ -1,0 +1,99 @@
+c:\users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\bin\Debug\Apotek.exe.config
+c:\users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\bin\Debug\Apotek.exe
+c:\users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\bin\Debug\Apotek.pdb
+c:\users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.csprojResolveAssemblyReference.cache
+c:\users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.Properties.Resources.resources
+c:\users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.csproj.GenerateResource.Cache
+c:\users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.exe
+c:\users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.pdb
+C:\Users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.Form_Home.resources
+C:\Users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.Form_Login.resources
+C:\Users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.Form_Laporan.resources
+C:\Users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.Form_Obat.resources
+C:\Users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.Form_Penjualan.resources
+C:\Users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.Form_Riwayat.resources
+C:\Users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.Form_Supplier.resources
+C:\Users\mayones\documents\visual studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.Form_User.resources
+C:\Users\mayones\Documents\Visual Studio 2013\Projects\Apotek\Apotek\obj\Debug\Apotek.Form_Pilih_Obat.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.exe
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.pdb
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Home.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Laporan.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Login.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Obat.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Penjualan.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Pilih_Obat.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Riwayat.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Supplier.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_User.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Properties.Resources.resources
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\bin\Debug\Apotek.exe
+C:\Users\ACER\Documents\Bu Yuli\Apotek\Apotek\bin\Debug\Apotek.pdb
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.exe
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.pdb
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\bin\Debug\Apotek.exe
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\bin\Debug\Apotek.pdb
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.csprojResolveAssemblyReference.cache
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Home.resources
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Laporan.resources
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Login.resources
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Obat.resources
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Penjualan.resources
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Pilih_Obat.resources
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Riwayat.resources
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_Supplier.resources
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Form_User.resources
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.Properties.Resources.resources
+C:\Users\mayones\Documents\Bu Yuli\Apotek\Apotek\obj\Debug\Apotek.csproj.GenerateResource.Cache
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.exe
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.pdb
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\bin\Debug\Apotek.exe
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\bin\Debug\Apotek.pdb
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.csprojResolveAssemblyReference.cache
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Home.resources
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Login.resources
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Obat.resources
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Penjualan.resources
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Pilih_Obat.resources
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Riwayat.resources
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Supplier.resources
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_User.resources
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Properties.Resources.resources
+C:\Users\mayones\Documents\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.csproj.GenerateResource.Cache
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\bin\Debug\Apotek.exe.config
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.exe
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.pdb
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\bin\Debug\Apotek.exe
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\bin\Debug\Apotek.pdb
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.csprojResolveAssemblyReference.cache
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Home.resources
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Login.resources
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Obat.resources
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Penjualan.resources
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Pilih_Obat.resources
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Riwayat.resources
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_Supplier.resources
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Form_User.resources
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.Properties.Resources.resources
+E:\Bac\Apotek_Abdullah Faqih\Apotek\Apotek\obj\Debug\Apotek.csproj.GenerateResource.Cache
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe.config
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.exe
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.pdb
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\bin\Debug\Apotek.exe
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\bin\Debug\Apotek.pdb
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.csprojResolveAssemblyReference.cache
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.Form_Home.resources
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.Form_Login.resources
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.Form_Obat.resources
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.Form_Penjualan.resources
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.Form_Pilih_Obat.resources
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.Form_Riwayat.resources
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.Form_Supplier.resources
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.Form_User.resources
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.Properties.Resources.resources
+E:\Backup Aplikasi\Apotek\Apotek\Apotek\obj\Debug\Apotek.csproj.GenerateResource.Cache
